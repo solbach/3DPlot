@@ -1,2 +1,2 @@
 # 3DPlot
-3D Vertices plotting using MATLAB
+3D Vertex plotting using MATLAB
