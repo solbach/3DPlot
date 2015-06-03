@@ -4,5 +4,7 @@
 ## usage
 
 ## requires
+* MATLAB
 
 ## tested on
+* MATLAB R2013a
