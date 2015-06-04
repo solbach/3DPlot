@@ -7,7 +7,6 @@ y = input( :, 2 );
 z = input( :, 3 );
 
 %% PLOT
-
 figure(1)
 plot3( x, y, z, '*' );
 
